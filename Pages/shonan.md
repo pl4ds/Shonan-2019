@@ -1,8 +1,6 @@
 # Shonan
 
-![photo](/Images/shonan.jpeg)
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+[Official page of the Meeting](https://shonan.nii.ac.jp/seminars/149/)
 
 ## Presentations
 
@@ -34,3 +32,4 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Masahiro Yasugi](https://github.com/pl4ds/Shonan-2019/blob/master/yasugi-hope-shonan19.pdf)
 
 
+![photo](/Images/shonan.jpeg)
