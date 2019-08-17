@@ -31,5 +31,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 - [Torsten Grunst](https://github.com/pl4ds/Shonan-2019/blob/master/Torsten_Grust.pdf)
 - [Vasco Vasconclos](https://github.com/pl4ds/Shonan-2019/blob/master/Vasco_Vasconcelos.pdf)
 - [Xavier Defago](https://github.com/pl4ds/Shonan-2019/blob/master/Xavier_Defago.pdf)
+- [Masahiro Yasugi](https://github.com/pl4ds/Shonan-2019/blob/master/yasugi-hope-shonan19.pdf)
 
 
